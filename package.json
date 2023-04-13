@@ -15,6 +15,7 @@
     "@react-navigation/stack": "^6.3.11",
     "expo": "^47.0.13",
     "expo-camera": "^13.1.0",
+    "expo-cli": "^6.3.2",
     "expo-image-picker": "^14.0.2",
     "expo-location": "^15.0.1",
     "expo-permissions": "^14.0.0",
